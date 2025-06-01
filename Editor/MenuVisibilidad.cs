@@ -8,7 +8,7 @@ public class MenuVisivilidad : MonoBehaviour
     [MenuItem(nombreSubmenu + "Ocultar Todos Excepto Seleccionados")]
     static void OcultarTodosExceptoSeleccionados()
     {
-        GameObject[] todosLosObjetos = GameObject.FindObjectsOfType<GameObject>();
+        GameObject[] todosLosObjetos = GameObject.FindObjectsByType<GameObject>( FindObjectsSortMode.None );
 
         foreach (GameObject obj in todosLosObjetos)
         {
