@@ -1,0 +1,9 @@
+<map id="Gráfico de jerarquía de clases" name="Gráfico de jerarquía de clases">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,56,61,83"/>
+<area shape="rect" id="Node000001" href="$class_menu_atajos_locaciones.html" title=" " alt="" coords="109,5,265,32"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="75,53,108,41,142,30,144,35,110,47,76,58"/>
+<area shape="rect" id="Node000002" href="$class_menu_rotaciones.html" title=" " alt="" coords="127,56,246,83"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="76,67,127,67,127,72,76,72"/>
+<area shape="rect" id="Node000003" href="$class_restablecer_vista_editor.html" title=" " alt="" coords="109,107,264,133"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="76,81,110,92,144,103,142,109,108,97,75,86"/>
+</map>
