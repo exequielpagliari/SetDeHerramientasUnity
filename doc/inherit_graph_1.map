@@ -1,7 +1,11 @@
 <map id="Gráfico de jerarquía de clases" name="Gráfico de jerarquía de clases">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,31,108,57"/>
-<area shape="rect" id="Node000001" href="$class_buscador_por_tag.html" title=" " alt="" coords="184,5,301,32"/>
-<area shape="poly" id="edge4_Node000000_Node000001" title=" " alt="" coords="122,32,183,24,184,29,123,38"/>
-<area shape="rect" id="Node000002" href="$class_cambiar_velocidad_ventana.html" title=" " alt="" coords="156,56,329,83"/>
-<area shape="poly" id="edge5_Node000000_Node000002" title=" " alt="" coords="123,50,155,55,155,60,122,56"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,81,108,108"/>
+<area shape="rect" id="Node000001" href="$class_align_to_surface_editor.html" title=" " alt="" coords="171,5,314,32"/>
+<area shape="poly" id="edge4_Node000000_Node000001" title=" " alt="" coords="93,71,155,42,188,30,189,35,157,46,95,76"/>
+<area shape="rect" id="Node000002" href="$class_buscador_por_tag.html" title=" " alt="" coords="184,56,301,83"/>
+<area shape="poly" id="edge5_Node000000_Node000002" title=" " alt="" coords="122,83,183,75,184,80,123,88"/>
+<area shape="rect" id="Node000003" href="$class_cambiar_velocidad_ventana.html" title=" " alt="" coords="156,107,329,133"/>
+<area shape="poly" id="edge6_Node000000_Node000003" title=" " alt="" coords="123,101,155,105,155,111,122,106"/>
+<area shape="rect" id="Node000004" href="$class_prefab_palette_window.html" title=" " alt="" coords="169,157,316,184"/>
+<area shape="poly" id="edge7_Node000000_Node000004" title=" " alt="" coords="95,113,157,143,189,154,188,159,155,148,93,118"/>
 </map>

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['cambiarvelocidadventana_0',['CambiarVelocidadVentana',['../class_cambiar_velocidad_ventana.html',1,'']]]
+  ['buscadorportag_0',['BuscadorPorTag',['../class_buscador_por_tag.html',1,'']]]
 ];
